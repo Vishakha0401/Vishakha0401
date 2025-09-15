@@ -5,7 +5,6 @@
 ---
 
 ## 👀 I’m interested in:
-- Full Stack Web Development  
 - Machine Learning & AI  
 - Open Source Contributions  
 - Designing clean and user-friendly interfaces  
